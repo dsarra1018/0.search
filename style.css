@@ -3,3 +3,8 @@ body {
     font-size: 14px;
     line-height: 24px;
 }
+
+.nav {
+    text-align: right;
+    margin: 20px;
+}
