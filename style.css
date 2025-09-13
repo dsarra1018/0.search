@@ -8,3 +8,8 @@ body {
     text-align: right;
     margin: 20px;
 }
+
+.nav a {
+    text-decoration: none;
+    margin-left: 16px;
+}
