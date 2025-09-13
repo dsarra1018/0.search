@@ -17,3 +17,9 @@ body {
 .nav a:hover {
     text-decoration: underline;
 }
+
+.logo {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
