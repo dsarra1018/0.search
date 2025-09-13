@@ -13,3 +13,7 @@ body {
     text-decoration: none;
     margin-left: 16px;
 }
+
+.nav a:hover {
+    text-decoration: underline;
+}
