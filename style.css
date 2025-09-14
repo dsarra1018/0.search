@@ -47,7 +47,9 @@ h3 {
     color: #333;
 }
 
-
+#advanced-form {
+    background-color: green;
+}
 
 .search-form form {
     display: flex;
