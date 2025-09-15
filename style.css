@@ -56,6 +56,20 @@ h3 {
     align-items: left;
 }
 
+.form-item {
+    margin: 10px 35px;
+}
+
+.form-item input[type=text] {
+    flex: 1;
+    padding: 6px 8px;
+    border: 1px solid #d9d9d9;
+    border-radius: 1px;
+    font-size: 13px;
+    min-width: 700px;
+}
+
+
 .search-form form {
     align-items: center;
 }
@@ -82,4 +96,13 @@ input[type=submit] {
     border-radius: 4px;
     font-family: "Roboto", Arial, sans-serif;
     font-size: 14px;
+}
+
+#advanced-button {
+    background: #4d90fe;
+    border: 1px solid #3079ed;
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 13px;
 }
